@@ -330,3 +330,7 @@
   padding: var(--space-md);
   margin-bottom: var(--space-md);
 }
+
+#btn-salir{
+  cursor: pointer;
+}
